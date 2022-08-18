@@ -1,0 +1,27 @@
+body{
+    background-color: darkorange;
+}
+img{
+    
+}
+ul a{
+    color: black;
+}
+.home{
+    text-align: center;
+    padding: 10px 10px;
+    }
+    .home li{
+        display: inline-block;
+        justify-content: space-between;
+        background: red;
+        padding: 5px 5px;
+        margin: 3px 40px;
+    
+    }
+    
+
+
+
+
+
